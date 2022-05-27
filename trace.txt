@@ -1,0 +1,28 @@
+((xy)(zf))
+
+c_b = 1
+
+c_b = 2;   lst_str = (xy)(zf));  lst_source = ((xy)(zf)) 
+c_b = 3;   lst_str = xy)(zf));   lst_source = ((xy)(zf)) 
+c_b = 3;   lst_str = y)(zf));    lst_source = ((xy)(zf)) 
+c_b = 3;   lst_str = )(zf));     lst_source = ((xy)(zf)) 
+c_b = 2;   lst_str = (zf));      lst_source = ((xy)(zf)) 
+c_b = 3;   lst_str = zf));       lst_source = ((xy)(zf)) 
+c_b = 3;   lst_str = f));        lst_source = ((xy)(zf)) 
+c_b = 3;   lst_str = ));         lst_source = ((xy)(zf)) 
+c_b = 2;   lst_str = );          lst_source = ((xy)(zf)) 
+c_b = 1;   lst_str = [];         lst_source = ((xy)(zf)) 
+
+
+(xy)(xy)
+
+c_b = 1
+
+c_b = 2;  lst_str = xy)(xy)
+c_b = 2;  lst_str = y)(xy)
+c_b = 2;  lst_str = )(xy)
+c_b = 1;  lst_str = (xy)
+c_b = 2;  lst_str = xy)
+c_b = 2;  lst_str = y)
+c_b = 2;  lst_str = )
+c_b = 1;  lst_str = []
