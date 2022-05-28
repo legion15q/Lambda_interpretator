@@ -6,3 +6,10 @@ print $ eval [] (Lam "x" (App (Var "x")(Var "x")))
 print $ eval [] (App (Var "x")(Var "x"))
 print $ eval [] (Lam "x" (Var "x"))
 ```
+####Консоль:
+```
+Выбрать соответствующий пункт
+- \x(x\(x))
+- \x(xx)
+- \x(x)
+```
